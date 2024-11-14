@@ -1,0 +1,2 @@
+# 15.6_Js_Karisik_Yapida_-c_-ce_Donguler
+Karisik_Yapida_İc_İce_Donguler
