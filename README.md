@@ -53,7 +53,7 @@ Aşağıda, bu adımları takip ederek öğrencilerin derslerini ve notlarını 
     isim: Ali
       dersAdi: Matematik, not: 85
       dersAdi: Türkçe, not: 92
-      dersAdi: "Fizik", not: 78
+      dersAdi: Fizik, not: 78
 
     isim: Ayşe
       dersAdi: Matematik, not: 88 
