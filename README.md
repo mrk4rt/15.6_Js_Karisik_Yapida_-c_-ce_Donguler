@@ -46,7 +46,7 @@ Bu projede, iç içe döngülerin kullanımını pekiştirmek amacıyla bir sın
 --- 
 
 ## Örnek:
-Aşağıda, bu adımları takip ederek öğrencilerin derslerini ve notlarını ekrana yazdıran bir JavaScript örneği bulunmaktadır:
+Aşağıda, bu adımları takip ederek öğrencilerin derslerini ve notlarını ekrana yazdıracağın bilgiler yazmaktadır.
 
 ```javascript
 
